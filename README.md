@@ -5,7 +5,7 @@ www.linkedin.com/in/khaled-alharrawi-908244431
 
 # Does Hexagonal Geometry Help a Graph Neural Network? An Ablation Study
 
-**Author / affiliation:** [Your name] · [Company name]
+**Author / affiliation:** [Ahmad alharrawi] · [levant ai].
 **Status:** small-scale ablation study. It confirms a known principle in a new setting; it is not a new discovery.
 
 ## The short version
